@@ -11,5 +11,23 @@ consumindo de api:
 
 https://github.com/xitarps/games_api
 
-## Screen:
+## Uso:
+
+```
+git clone https://github.com/xitarps/games_api_terminal.git
+```
+
+```
+cd ./games_api_terminal
+```
+
+```
+rb ./software_cli.rb
+```
+*requer ruby na máquina para rodar
+
+## Exemplo:
 ![alt text](screen.jpg "screenshot")
+
+
+*título gerado com figlet
